@@ -1,6 +1,6 @@
 # Ibukunoluwa Kehinde
 
-Senior Backend Engineer focused on distributed systems, platform architecture, and production-grade APIs.
+Senior Backend Engineer focused on distributed systems, platform architecture, and AI tooling.
 
 I work mostly in the space where backend systems need to be reliable, observable, secure, and pleasant for other engineers to build on. My recent work has covered digital identity and signatures, IoT telemetry, fintech workflows, compliance automation, multi-tenant SaaS platforms, and real-time collaboration systems.
 
@@ -17,13 +17,10 @@ I work mostly in the space where backend systems need to be reliable, observable
 
 ## Current Focus
 
-I am tightening my public GitHub around stronger engineering signals and will be publishing technical projects weekly. Expect to see more work around:
-
 - distributed backend patterns
 - event-driven architecture
 - identity, security, and access control
 - developer tooling
-- AI-assisted backend workflows
 - production reliability and observability
 
 ## Engineering Interests
