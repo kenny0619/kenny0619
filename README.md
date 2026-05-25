@@ -16,7 +16,7 @@ TypeScript, Node.js, NestJS, Python, Go, PostgreSQL, MongoDB, Redis, Docker, AWS
 
 ## On This GitHub
 
-I am cleaning up my older public work and will be publishing more focused technical projects here. The goal is to share small, useful builds around the systems I work with in practice.
+The goal is to share small, useful builds around the systems I work with in practice.
 
 ## Contact
 
