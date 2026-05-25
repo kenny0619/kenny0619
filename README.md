@@ -1,31 +1,22 @@
 # Ibukunoluwa Kehinde
 
-Senior Backend Engineer focused on distributed systems, platform architecture, and AI tooling.
+Senior Backend Engineer focused on reliable backend systems for digital identity, AI-assisted workflows, and IoT telemetry.
 
-I work mostly in the space where backend systems need to be reliable, observable, secure, and pleasant for other engineers to build on. My recent work has covered digital identity and signatures, IoT telemetry, fintech workflows, compliance automation, multi-tenant SaaS platforms, and real-time collaboration systems.
-
-## What I Build Around
-
-- Backend systems with TypeScript, Node.js, NestJS, Hono, AdonisJS, Python, Go, and Rust
-- API platforms across REST, oRPC, GraphQL, WebSocket, gRPC, and OpenAPI
-- Event-driven systems using Kafka, RabbitMQ, MQTT, BullMQ, and background job orchestration
-- Data layers with PostgreSQL, MongoDB, MySQL, Redis, TypeORM, Drizzle, and Mongoose
-- Authentication and security patterns including WebAuthn/passkeys, OAuth2, JWT, RBAC, API keys, and multi-tenant access control
-- Cloud and infrastructure work across AWS, GCP, Docker, CI/CD, and monorepo tooling
-- Observability with Sentry, Axiom, OpenTelemetry, structured logging, tracing, and health monitoring
-- Applied AI integrations for compliance workflows, structured extraction, speech/video processing, and automation
+I like building systems that stay understandable as they grow: clear APIs, practical security, useful observability, and infrastructure that lets product teams move without fighting the platform.
 
 ## Current Focus
 
-- distributed backend patterns
-- event-driven architecture
-- identity, security, and access control
-- developer tooling
-- production reliability and observability
+- Digital identity, signatures, authentication, and access control
+- AI systems for compliance, document/video workflows, and structured automation
+- IoT telemetry platforms, device data, alerts, and operational dashboards
 
-## Engineering Interests
+## Tools I Reach For
 
-I enjoy systems that are simple at the surface and deliberate underneath: clear domain boundaries, boring operational paths, type-safe contracts, fast feedback loops, and enough observability to understand what the system is doing under pressure.
+TypeScript, Node.js, NestJS, Python, Go, PostgreSQL, MongoDB, Redis, Docker, AWS, GCP, and observability tooling.
+
+## On This GitHub
+
+I am cleaning up my older public work and will be publishing more focused technical projects here. The goal is to share small, useful builds around the systems I work with in practice.
 
 ## Contact
 
